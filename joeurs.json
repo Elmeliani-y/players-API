@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "idEquipe": "MCI",   
+      "nom": "Kevin De Bruyne",
+      "numero": 17,
+      "poste": "Midfielder"
+    },
+    {
+      "id": 2,
+      "idEquipe": "LIV",  
+      "nom": "Mohamed Salah",
+      "numero": 11,
+      "poste": "Forward"
+    },
+    {
+      "id": 3,
+      "idEquipe": "CHE",  
+      "nom": "Jorginho",
+      "numero": 5,
+      "poste": "Midfielder"
+    },
+    {
+      "id": 4,
+      "idEquipe": "ARS",  
+      "nom": "Bukayo Saka",
+      "numero": 7,
+      "poste": "Winger"
+    },
+    {
+      "id": 5,
+      "idEquipe": "TOT",   
+      "nom": "Son Heung-Min",
+      "numero": 7,
+      "poste": "Forward"
+    },
+    {
+      "id": 6,
+      "idEquipe": "MUN",   
+      "nom": "Bruno Fernandes",
+      "numero": 18,
+      "poste": "Midfielder"
+    },
+    {
+      "id": 7,
+      "idEquipe": "MCI",   
+      "nom": "Erling Haaland",
+      "numero": 9,
+      "poste": "Striker"
+    },
+    {
+      "id": 8,
+      "idEquipe": "LIV",  
+      "nom": "Virgil van Dijk",
+      "numero": 4,
+      "poste": "Defender"
+    },
+    {
+      "id": 9,
+      "idEquipe": "CHE",  
+      "nom": "Thiago Silva",
+      "numero": 6,
+      "poste": "Defender"
+    },
+    {
+      "id": 10,
+      "idEquipe": "Leicester City",  
+      "nom": "Youri Tielemans",  
+      "numero": 8,
+      "poste": "Midfielder"
+    },
+    {
+      "id": 11,
+      "idEquipe": "West Ham United",  
+      "nom": "Declan Rice",  
+      "numero": 41,
+      "poste": "Midfielder"
+    },
+    {
+      "id": 12,
+      "idEquipe": "Newcastle United",  
+      "nom": "Bruno Guimarães",  
+      "numero": 39,
+      "poste": "Midfielder"
+    },
+    {
+      "id": 13,
+      "idEquipe": "Brentford",  
+      "nom": "Ivan Toney",  
+      "numero": 17,
+      "poste": "Forward"
+    },
+    {
+      "id": 14,
+      "idEquipe": "Brighton & Hove Albion",  
+      "nom": "Moises Caicedo",  
+      "numero": 25,
+      "poste": "Midfielder"
+    },
+    {
+      "id": 15,
+      "idEquipe": "Crystal Palace",   
+      "nom": "Wilfried Zaha",  
+      "numero": 11,
+      "poste": "Forward"
+    },
+    {
+      "id": 16,
+      "idEquipe": "Everton",  
+      "nom": "Dominic Calvert-Lewin",
+      "numero": 9,
+      "poste": "Forward"
+    }]  
